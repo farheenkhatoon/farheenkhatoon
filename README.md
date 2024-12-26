@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌱 I’m currently learning GITHUB
 
 <!--
 **farheenkhatoon/farheenkhatoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
